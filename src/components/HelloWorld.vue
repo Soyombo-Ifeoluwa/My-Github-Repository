@@ -167,6 +167,7 @@ button:hover {
 @media screen and (max-width: 530px) {
   #links {
     margin-left: 0px;
+    margin-top: 13px;
   }
 
   .links {
@@ -185,12 +186,12 @@ button:hover {
 
   #details {
     margin-right: 0px;
-    font-size: 35px;
+    font-size: 23px;
     margin-left: 5px;
   }
 
   p {
-    font-size: 35px;
+    font-size: 25px;
   }
 }
 

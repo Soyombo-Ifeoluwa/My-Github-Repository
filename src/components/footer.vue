@@ -74,7 +74,7 @@ h1{
 
     }
     h1{
-        font-size:30px;
+        font-size:25px;
     }
     .at{
         font-size: 25px;

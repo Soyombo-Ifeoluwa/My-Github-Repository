@@ -54,6 +54,7 @@
 import axios from 'axios'
 import MyFooter from "./footer.vue"
 
+
 export default{
     name: "PageDetails",
     components: {
